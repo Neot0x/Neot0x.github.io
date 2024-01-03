@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neot0x.github.io/sitemap.xml
